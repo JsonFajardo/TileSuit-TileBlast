@@ -16,6 +16,8 @@ It is ideal for:
 
 ---
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15717685.svg)](https://doi.org/10.5281/zenodo.15778711)
+
 ## Features
 
 * Accepts raw DNA or NCBI accession as input
