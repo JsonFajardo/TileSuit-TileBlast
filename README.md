@@ -117,5 +117,5 @@ Released under the [MIT License](LICENSE).
 
 ## Author & Project
 
-TILEBLAST is part of the broader [TileSuit project](https://zenodo.org/doi/10.5281/zenodo.15778711).
+TILEBLAST is part of the broader [TileSuit project](https://zenodo.org/doi/10.5281/zenodo.15778710).
 Developed by Jason Fajardo, 2024–2025.
