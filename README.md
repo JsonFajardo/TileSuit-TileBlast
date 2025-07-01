@@ -37,13 +37,6 @@ This script requires R and a few core packages:
 ```r
 install.packages(c("rentrez", "ggplot2", "gridExtra", "Biostrings"))
 ```
-
-If hosted via GitHub in the future:
-
-```r
-devtools::install_github("yourusername/tileblast")
-```
-
 ---
 
 ## Usage
